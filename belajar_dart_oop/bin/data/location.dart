@@ -3,7 +3,7 @@ abstract class Location {
 }
 
 class City extends Location {
-  CIty(String name) {
+  City(String name) {
     this.name = name;
   }
 }
