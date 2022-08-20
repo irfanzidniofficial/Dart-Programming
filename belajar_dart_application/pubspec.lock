@@ -33,11 +33,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "1.0.0"
-      resolved-ref: "6ded252ad85b2cdc98567efa31919f3da713a4e9"
+      ref: "1.5.0"
+      resolved-ref: "3761de21f48bcd29cdaeed717d9a62b28546cb62"
       url: "git@github.com:irfanzidniofficial/belajar_dart_library.git"
     source: git
-    version: "1.0.0"
+    version: "1.5.0"
   boolean_selector:
     dependency: transitive
     description:
